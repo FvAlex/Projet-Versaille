@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.448" height="23.452" viewBox="0 0 23.448 23.452">
+  <g id="Bouton_recherche" data-name="Bouton recherche" transform="translate(-350.503 -19)">
+    <path id="Icone_-_recherche" data-name="Icone - recherche" d="M23.129,20.276,18.563,15.71a1.1,1.1,0,0,0-.779-.321h-.747a9.522,9.522,0,1,0-1.649,1.649v.747a1.1,1.1,0,0,0,.321.779l4.566,4.566a1.1,1.1,0,0,0,1.553,0l1.3-1.3A1.1,1.1,0,0,0,23.129,20.276Zm-13.6-4.887a5.862,5.862,0,1,1,5.862-5.862A5.859,5.859,0,0,1,9.527,15.389Z" transform="translate(350.503 19)" fill="#333"/>
+  </g>
+</svg>
