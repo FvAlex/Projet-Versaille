@@ -1,5 +1,10 @@
-*{
-    color:red;
+body{
+    margin: auto;
     font-family: "Noto Sans";
-    font-weight: bold;
+    font-weight: normal;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    bottom: 0;
 }

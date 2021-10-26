@@ -1,3 +1,9 @@
 :root{
-    --primary: blue;
+    --lightBrown: #CCA675;
+    --darkBrown: #907B61;
+    --lightGrey: #FAF8F5;
+    --darkGrey: #E0E0E0;
+    --lightBlack: #727272;
+    --black: #333333;
+    --red: #BC3939;
 }

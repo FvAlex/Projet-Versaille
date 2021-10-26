@@ -1,3 +1,7 @@
-@import "/Css/Theme/base.css";
-@import "/Css/Theme/font.css";
-@import "/Css/Theme/variable.css";
+@import "./Theme/base.css";
+@import "./Theme/font.css";
+@import "./Theme/variable.css";
+@import "./Theme/nav.css";
+@import "./Theme/header.css";
+@import "./Theme/footer.css";
+@import "./Theme/main.css";
