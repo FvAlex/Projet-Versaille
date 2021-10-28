@@ -68,6 +68,10 @@
     align-items: center;
     border-right: solid #E0E0E0 1px;
 }
+.navbar_second_menu_para{
+    font-weight: bold;
+    margin-left: 10px;
+}
 .navbar_second_recherche{
     display: flex;
     flex-direction: row;

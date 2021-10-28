@@ -2,9 +2,10 @@ body{
     margin: auto;
     font-family: "Noto Sans";
     font-weight: normal;
+    width: 100%;
 }
 .logo{
     display: flex;
     justify-content: center;
-    margin-top: -40px;
+    margin-top: 15px;
 }
